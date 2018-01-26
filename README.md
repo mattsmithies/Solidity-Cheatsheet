@@ -1,6 +1,6 @@
 # Solidity Adventures
 
-One dinosaurs journey learning how to write Smart Contracts in Solidity with examples.
+One dinosaurs journey exploring the interesting facets of Solidity
 
 # Require 
 
