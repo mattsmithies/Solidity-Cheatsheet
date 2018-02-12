@@ -97,8 +97,6 @@ function runFunctions() public {
 
 ```
 
-Currently we are unable to nest multiple modifiers for a function or compose multiple modifiers.
-
 
 
 
